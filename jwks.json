@@ -8,7 +8,8 @@
       "kid": "Cq3XY9rH0afUn2IWcX4Kc0cs2SOkvDVlehjPbspd0UQ",
       "x": "fSAndpI8cKhMKMMHmDdi3Al-BPbo3zKeA7SNtkQM0hpSir_7Y8zXg5WfOWjqOzHh",
       "y": "tZXW4PLMRVziJXz_gcvidffs5YyShu7TC5H4do-ZSXUj_0y_d94fkC61mS66iY_P"
-    },{
+    },
+    {
       "kty": "RSA",
       "alg": "RS384",
       "use": "sig",
