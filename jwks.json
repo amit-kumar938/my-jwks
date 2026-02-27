@@ -2,12 +2,12 @@
   "keys": [
     {
       "kty": "EC",
-      "crv": "P-384",
       "alg": "ES384",
+      "crv": "P-384",
       "use": "sig",
-      "kid": "a9db5f15-58ec-4d38-8282-08b300e63465",
-      "x": "V_2sT2pGIw4TIa8DI-kJl3Vv2Zdys3B9UcGWPWgFBmIrUlv0HaTnFpdiSaBxzIDH",
-      "y": "enpdRFihCzl27P60IwoaluGf6z5ghlH3cLw6G-ytTw2eAtwxBq-SIRzQLr8f_3hW"
+      "kid": "Cq3XY9rH0afUn2IWcX4Kc0cs2SOkvDVlehjPbspd0UQ",
+      "x": "fSAndpI8cKhMKMMHmDdi3Al-BPbo3zKeA7SNtkQM0hpSir_7Y8zXg5WfOWjqOzHh",
+      "y": "tZXW4PLMRVziJXz_gcvidffs5YyShu7TC5H4do-ZSXUj_0y_d94fkC61mS66iY_P"
     }
   ]
 }
